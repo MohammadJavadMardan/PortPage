@@ -9,11 +9,12 @@ function App() {
                     <ProfileFrame />
                     <div data-name="content" className="text-center mt-8 fade-in">
                         <div className="glass-card mx-auto max-w-2xl p-8 rounded-2xl mt-12">
-                            <h1 className="text-5xl font-bold mb-4 luxury-text tracking-wider">Your Name</h1>
-                            <p className="text-xl text-gray-400 tracking-wide highlight-hover">Creative Developer & Designer</p>
+                            <h1 className="text-5xl font-bold mb-4 luxury-text tracking-wider">MohamadJavad Mardan</h1>
+                            <p className="text-xl text-gray-400 tracking-wide highlight-hover">FrontEnd Developer | Wordpress Developer | Data mining intern</p>
                             <div className="mt-6 text-gray-400">
                                 <p className="leading-relaxed highlight-hover">
-                                    Crafting digital experiences with elegance and precision
+                                 here you can find the connecion ways
+
                                 </p>
                             </div>
                         </div>
